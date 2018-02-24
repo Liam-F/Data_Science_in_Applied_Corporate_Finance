@@ -6,4 +6,8 @@ This repository contains data science projects that studies the empirical behavi
 3. [Big Data Transformation](http://nbviewer.jupyter.org/github/chenbowen184/Data_Science_in_Applied_Corporate_Finance/blob/master/Project%203%20-%20Big%20Data%20Transformation.ipynb)
 4. [Fundamental Analysis](http://nbviewer.jupyter.org/github/chenbowen184/Data_Science_in_Applied_Corporate_Finance/blob/master/Project%204%20-%20Fundamentals.ipynb)
 
+5.[Reconciliation]()
+
+6.[Company Comparables]()
+
 (ongoing)
