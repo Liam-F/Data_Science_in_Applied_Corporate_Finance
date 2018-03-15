@@ -9,4 +9,3 @@ This repository contains data science projects that studies the empirical behavi
 6. [Company Comparables](http://nbviewer.jupyter.org/github/chenbowen184/Data_Science_in_Applied_Corporate_Finance/blob/master/Project%206%20-%20Company%20Comparables.ipynb)
 7. [Cross-Sectional Regressions](http://nbviewer.jupyter.org/github/chenbowen184/Data_Science_in_Applied_Corporate_Finance/blob/master/Project%207%20-%20Cross%20Sectional%20Regressions.ipynb)
 
-(Completed)
